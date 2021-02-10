@@ -1,4 +1,4 @@
-# mercari_price_suggestion
+# Mercari Price Suggestion With Missing Value Imputation
 
 Blog link - https://yashcdixit1998.medium.com/mercari-price-suggestion-challenge-a-regression-case-study-with-missing-value-imputation-ce1de9817a6a
 
